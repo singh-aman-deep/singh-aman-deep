@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🔭 I’m currently working on [beyondMD](https://play.google.com/store/apps/details?id=com.prescribery.app)
-
-- 🌱 I’m currently learning **Go Lang**
+- 🔭 I’m currently working on [beyondMD](https://play.google.com/store/apps/details?id=com.prescribery.app) and DigiDoc
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://amansingh.pb.online/](https://amansingh.pb.online/)
 
-- 💬 Ask me about **Android|Java|Kotlin|Firebase**
+- 💬 Ask me about **Android|Java|Kotlin|Firebase|Spring Boot|Microservice**
 
 - 📫 How to reach me **aman.harry2744@gmail.com**
 
