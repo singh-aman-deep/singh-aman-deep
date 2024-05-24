@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 
-- 🔭 I’m currently working on [beyondMD](https://play.google.com/store/apps/details?id=com.prescribery.app) and DigiDoc
+- 🔭 I’m currently working on DigiDoc
 - 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://amansingh.pb.online/](https://amansingh.pb.online/)
